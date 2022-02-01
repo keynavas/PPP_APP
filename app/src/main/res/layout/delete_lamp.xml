@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app ="http://schemas.android.com/apk/res-auto"
+    android:excludeFromRecents="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    app:chainUseRtl="true">
+    <TextView
+        android:id="@+id/delete_posted_pic"
+        android:background="@drawable/textview_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:includeFontPadding="false"
+        android:layout_marginHorizontal="-5dp"
+        android:padding="@dimen/_10sdp"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:text="delete lamp "
+        android:textSize="@dimen/_15sdp"
+        android:drawablePadding="@dimen/_6sdp"
+        app:drawableLeftCompat="@drawable/ic_delete"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

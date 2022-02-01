@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184671340748",
+    "project_id": "iotpro-116e0",
+    "storage_bucket": "iotpro-116e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184671340748:android:379abf8fd9d9ce28f85a69",
+        "android_client_info": {
+          "package_name": "com.essadrati.lampcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184671340748-kc1og7jone3ifnra6gm01qo8baerpkdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eMEU7Da5DFJIfOm_uz2eG135hV-x06w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184671340748-kc1og7jone3ifnra6gm01qo8baerpkdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
